@@ -1,0 +1,7 @@
+Name:Vasanth
+Table Number:7
+Item1:2
+Item2:5
+Item3:3
+Item4:1
+Item5:2
